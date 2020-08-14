@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tayabamba-334ac": {
+      "hosting": {
+        "angular-electron": [
+          "tayabamba-334ac"
+        ]
+      }
+    }
+  }
+}
